@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Textando" x:Class="Textando.MainPage">
+    <StackLayout Padding="5,10" >
+        <!-- Place new controls here -->
+        <Label Text="Insira um numero: " />
+        
+        <Entry 
+               Placeholder="num1"
+               MaxLength="10"
+               IsSpellCheckEnabled="false"
+               Keyboard="Numeric"
+               x:Name="campo1"
+               />
+                
+        <Label Text="Insira outro numero: " />
+        
+        <Entry  
+               Placeholder="num2"
+               MaxLength="10"
+               IsSpellCheckEnabled="false"
+               Keyboard="Numeric"
+               x:Name="campo2"
+               />
+        
+        <Button
+               Text="Resultado"
+               Clicked="Soma"/>
+        
+        <Label Text=" " 
+               x:Name="campo3" />
+        
+    </StackLayout>
+</ContentPage>

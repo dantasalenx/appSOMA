@@ -1,0 +1,11 @@
+/Users/aluno/Projects/Textando/Textando/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/Textando/Textando/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/Textando/Textando/obj/Debug/netstandard2.0/Textando.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Textando/Textando/obj/Debug/netstandard2.0/Textando.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Textando/Textando/obj/Debug/netstandard2.0/Textando.AssemblyInfo.cs
+/Users/aluno/Projects/Textando/Textando/obj/Debug/netstandard2.0/Textando.dll
+/Users/aluno/Projects/Textando/Textando/obj/Debug/netstandard2.0/Textando.pdb
+/Users/aluno/Projects/Textando/Textando/bin/Debug/netstandard2.0/Textando.deps.json
+/Users/aluno/Projects/Textando/Textando/bin/Debug/netstandard2.0/Textando.dll
+/Users/aluno/Projects/Textando/Textando/bin/Debug/netstandard2.0/Textando.pdb
+/Users/aluno/Projects/Textando/Textando/obj/Debug/netstandard2.0/XamlC.stamp
